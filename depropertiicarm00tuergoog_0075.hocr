@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depropertiicarm00tuergoog_0075.png"; bbox 0 0 2812 4688; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 576 2209 779 2230">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 576 2209 779 2230">
+     <span class='ocr_line' id='line_1_1' title="bbox 576 2209 779 2230; baseline -0.02 -2"><span class='ocrx_word' id='word_1_1' title='bbox 576 2209 779 2230; x_wconf 54' lang='lat' dir='ltr'><em>&amp;mmmm</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 457 2263 905 2323">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 457 2263 905 2323">
+     <span class='ocr_line' id='line_1_2' title="bbox 457 2263 905 2323; baseline -0.045 -9"><span class='ocrx_word' id='word_1_2' title='bbox 457 2290 477 2323; x_wconf 72' lang='lat' dir='ltr'><strong>J,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 489 2286 509 2319; x_wconf 78' lang='lat' dir='ltr'><strong>s.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 520 2283 598 2316; x_wconf 72' lang='lat' dir='ltr'><strong>mun,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 610 2269 677 2306; x_wconf 70' lang='lat' dir='ltr'><strong>norun</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 688 2267 726 2307; x_wconf 54' lang='grc' dir='ltr'><strong>π,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 737 2263 865 2298; x_wconf 69' lang='lat' dir='ltr'><strong>nonen-etr.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 877 2263 905 2295; x_wconf 72' lang='grc'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 572 2364 774 2388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 572 2364 774 2388">
+     <span class='ocr_line' id='line_1_3' title="bbox 572 2364 774 2388; baseline -0.03 0"><span class='ocrx_word' id='word_1_9' title='bbox 572 2364 774 2388; x_wconf 54' lang='lat' dir='ltr'><strong>«mmmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1410 4688">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1410 4688">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1410 4688; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1410 4688; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
